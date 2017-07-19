@@ -3,4 +3,5 @@ string name;
 int salary;
 public void display()
 {
+System.out.println(“sarvani”,100k);
 {
