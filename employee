@@ -1,0 +1,6 @@
+employee
+string name;
+int salary;
+public void display()
+{
+{
